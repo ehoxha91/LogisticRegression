@@ -6,9 +6,9 @@ I have implemented few basic algorithm of machine learning, for better understan
 
 I implemented:
 
--`Pocket PLA`
--`Linear Regression`
--`Logistic Regression`
+- `Pocket PLA`
+- `Linear Regression`
+- `Logistic Regression`
 
 For a detailed description please read the [report](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/LogRegression_LinRegression_PocketPLA/README1.pdf)
 
@@ -16,12 +16,12 @@ For a detailed description please read the [report](https://github.com/ehoxha91/
 
 I implemented:
 
--`multiclass logistic regression with regularization`
+- `multiclass logistic regression with regularization`
 
 Also used:
 
--`Principal Component Analysis or PCA` to reduce feature dimensions
--`Feature transform` to see how the degree of the transformation affects the accuracy, overfiting etc.
+- `Principal Component Analysis or PCA` to reduce feature dimensions
+- `Feature transform` to see how the degree of the transformation affects the accuracy, overfiting etc.
 
 For a detailed description of the math behind the scene or the code please read the [description](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/PCA_FeatureTransform_Regularization/README2.pdf)
 
