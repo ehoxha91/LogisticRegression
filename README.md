@@ -10,7 +10,7 @@ I implemented:
 - `Linear Regression`
 - `Logistic Regression`
 
-For a detailed description please read the [report](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/LogRegression_LinRegression_PocketPLA/README1.pdf)
+For a detailed description please read the [report](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/LogRegression_LinRegression_PocketPLA/README1.pdf).
 
 ## On the second part [PCA_FeatureTransform_Regularization](https://github.com/ehoxha91/machine_learning_from_scratch/tree/main/PCA_FeatureTransform_Regularization).
 
@@ -25,19 +25,8 @@ Also used:
 
 For a detailed description of the math behind the scene or the code please read the [description](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/PCA_FeatureTransform_Regularization/README2.pdf)
 
-# Required libraries
 
-```bash 
-numpy
-
-pandas
-
-sklearn
-
-matplotlib
-```
-
-# Installation
+# Installation of required libraries
 
 ```bash 
 pip3 install numpy
@@ -48,3 +37,5 @@ pip3 install sklearn
 
 pip3 install matplotlib
 ```
+
+@EjupHoxha
