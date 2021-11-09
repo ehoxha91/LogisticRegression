@@ -1,8 +1,15 @@
 # Machine Learning
 
 I have implemented few basic algorithm of machine learning, for better understanding the concepts that we use in our everyday life as scientists and engineers. I did not include any reference from books, papers and blogs. Most of the code is my work. I used sklearn datasets.
+## In: [K-Means-From-Scratch](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/kmeans_fast.ipynb)
 
-## In the first part: [LogRegression_LinRegression_PocketPLA](https://github.com/ehoxha91/machine_learning_from_scratch/tree/main/LogRegression_LinRegression_PocketPLA) 
+I implemented a very fast version of K-means, which it outperforms sklearn by using vectorization and it has all the basic options.
+
+## In: [PCA-From-Scratch](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/pca_from_scratch.ipynb)
+
+I implemented Principal Component Analysis from scratch. I also implemented a way to calculate an estimate of variance of the data for big datasets. I tested it with some weather data from NASA. I did not include the dataset, but I just show some maps I generated using PCA reduced data and original.
+
+## In: [LogRegression_LinRegression_PocketPLA](https://github.com/ehoxha91/machine_learning_from_scratch/tree/main/LogRegression_LinRegression_PocketPLA) 
 
 I implemented:
 
@@ -12,7 +19,7 @@ I implemented:
 
 For a detailed description please read the [report](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/LogRegression_LinRegression_PocketPLA/README1.pdf).
 
-## On the second part [PCA_FeatureTransform_Regularization](https://github.com/ehoxha91/machine_learning_from_scratch/tree/main/PCA_FeatureTransform_Regularization).
+## In: [PCA_FeatureTransform_Regularization](https://github.com/ehoxha91/machine_learning_from_scratch/tree/main/PCA_FeatureTransform_Regularization).
 
 I implemented:
 
