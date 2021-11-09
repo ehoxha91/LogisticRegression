@@ -4,7 +4,7 @@ I have implemented few basic algorithm of machine learning, for better understan
 ## In: [K-Means-From-Scratch](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/kmeans_fast.ipynb)
 
 I implemented a very fast version of K-means, which it outperforms sklearn by using vectorization and it has all the basic options.
-
+![Alt Text](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/thumbnail_test.png)
 ## In: [PCA-From-Scratch](https://github.com/ehoxha91/machine_learning_from_scratch/blob/main/pca_from_scratch.ipynb)
 
 I implemented Principal Component Analysis from scratch. I also implemented a way to calculate an estimate of variance of the data for big datasets. I tested it with some weather data from NASA. I did not include the dataset, but I just show some maps I generated using PCA reduced data and original.
